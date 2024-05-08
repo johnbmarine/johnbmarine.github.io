@@ -76,18 +76,22 @@ CHARACTERS:
 - Xiomara Luna
 - Carlotta Castiglione
 - Dennise Weatherby
+- Trisha Taylor
 
 ## Story 4: A New Vision
 A new tournament in Diva State opens itself to age limit changes.  Competitors now could be between the ages of 16-35 (previously 18-30).
 
 - Chammomile
-- Dakota
+- Dakota Jennings
+- Solemn Jones
+- Harmony
 - (more coming soon...)
 
 ## Story 5: Bad Babe League
 Carmel Henderson finally became free from prison and announced her intent.  Previously wanting to take over Diva State for herself, she had a new plan- to start her own fighting promotion.  This gives women a chance to join the main tournament in Diva State or compete in this brand-new promotion.  As fun as this may sound, some believe Carmel's new promotion is actually a promotion to try to take over Diva State.  Whose league will you take part in?
 
 CHARACTERS:
+- (unnamed SUI character)
 - (coming soon...)
 
 ## Spinoff Story 1: Freestyle
