@@ -66,5 +66,5 @@ My fashion/beauty blog is StyleSpace.  Because the name was originally taken by 
 I am on various places on social media.  As long as you are not someone of a scam or spam nature, I would love to meet new people.  So let's connect!
 
 
-#Establishment
+# Establishment
 Worked on long time ago, but never made public until May 7, 2024.
