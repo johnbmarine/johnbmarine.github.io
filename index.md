@@ -3,6 +3,8 @@ My name is John Marine, and I would like to welcome you to my page!  This is a s
 
 Now with this out of the way, how can I help you?
 
+Look around and enjoy!  :)
+
 
 
 
@@ -17,7 +19,7 @@ Take a look at my character designs.  Learn more about them.  (NOTE: Not all con
 ## [Original Vehicles](originals/veh/index.md)
 As an former creator of voxel models, I have developed some vehicles among my work.  Learn more about them with this category.
 
-## [Original Locations](originals/loc/index)
+## [Original Locations](originals/loc/index.md)
 Creations of mine in this category relate to certain fantasy locations I've created.  These can be game levels, fantasy worlds, fictional sports facilities, and a lot more.
 
 ## [My Cooking Adventues](originals/cook/index.md)
