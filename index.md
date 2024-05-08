@@ -56,10 +56,6 @@ My fashion/beauty blog is StyleSpace.  Because the name was originally taken by 
 ## [John's Life Space](Https://johnslifespace.blogspot.com) - #JohnsLifeSpace
 "Life happens."  That is the mantra to this blog that I dedicated in loving memory of my late grandmother.  All of my blog posts in this blog relate to various life issues.  I mention a variety of life issues ranging from light material to serious issues.  If it affects your life in any such way, it will be mentioned here.  I can not solve your life issues, but I can at least bring a number of these issues to light and offer commentary.  It is the least I can do on my life issues blog.
 
-## [John's Xperimental Space](https://johnsxpspace.blogspot.com/  TARGET="_blank")
-???
-
-
 
 
 # My Other Works and Sites
