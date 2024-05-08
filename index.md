@@ -3,7 +3,7 @@ My name is John Marine, and I would like to welcome you to my page!  This is a s
 
 Now with this out of the way, how can I help you?
 
-Look around and enjoy!  :)
+Look around and enjoy!  Come on, come on!  :)
 
 
 
@@ -13,7 +13,7 @@ Look around and enjoy!  :)
 These are the different features I will exclusively feature on this site.  Take a look around and enjoy my work!
 
 
-## [Original Characters](originals/chars/index.md)
+## [Original Characters](originals/chars/chars.md)
 Take a look at my character designs.  Learn more about them.  (NOTE: Not all content may be suitable for all audiences.  Some of the characters and the media involved are viewed at one's own risk.)
 
 ## [Original Vehicles](originals/veh/index.md)
