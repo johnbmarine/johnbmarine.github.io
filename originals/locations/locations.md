@@ -56,7 +56,9 @@ middle east
 india
 vietnam 1
 vietnam 2
+malaysia
 china
+philippines
 japan 1
 japan 2
 japan 3
