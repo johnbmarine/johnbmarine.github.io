@@ -3,7 +3,7 @@ My name is John Marine, and I would like to welcome you to my page!  This is a s
 
 Now with this out of the way, how can I help you?
 
-Look around and enjoy!  Come on, come on!  :)
+Something happens if you click ## [this link](helloworld.htm)...
 
 
 
