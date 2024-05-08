@@ -27,13 +27,19 @@ Creations of mine in this category relate to certain fantasy locations I've crea
 ## [My Cooking Adventues (currently unavailable)](helloworld.htm)
 Learn more about meals I've tried to create as an amateur cook.  You also can find out how I prepared certain meals.
 
-## [ABC's of Fashion, with John B. Marine (currently unavailable)](helloworld.htm)
-Here is a unique series for you fashion lovers.  I will share my thoughts on a number of fashion-related topics.  You are free to feel how you want about my opinions, but I share my own unique takes on fashion.  As the name implies, I will discuss a number of different fashion-related topics from numbers to A-Z.  I think you'll find this plenty interesting.
+
+# Original Series
+These are static sites featuring some original content only available on this page.  This section will be updated with new content when it becomes available.
+
+## [~Special Feature~ (currently unavailable)](helloworld.htm)
+???
 
 
 
 # My Blogging Work 
 Besides my own unique content, I am also a blogger.  Because stars and space inspire me, each blog has a theme of space to it.  So let me introduce you to my blogging work.  If you are on social media, the included hashtags are to the right of each blog title so you can discuss it on social media or find all of my published work.  Click on each heading to visit that specific blog.
+
+<b>NOTE/RECOMMENDATION:</b> These links will take you away from this page.  If you do not want to leave this site upon clicking, access these links in this section by opening them in a new tab.
 
 ## [John's Blog Space](https://johnbmarine.blogspot.com) - #JohnsBlogSpace
 My "mother blog" since January 2009, "John's Blog Space" is about two things- anything and everything.  Anything that crosses my mind, and everything that crosses my mind.  My main blog has helped me to meet many people from around the world as it amassed over 3M blog view hits all-time (as of May 2023).  This is no niche blog at all.  However, topics from JBS have shown up in my other blogs and have been edited substantially.  Care to take a visit?  If so, click on the header to this description!
