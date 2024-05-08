@@ -1,9 +1,11 @@
 # Welcome to John B. Marine's Github Site!
-My name is John Marine, and I would like to welcome you to my page!  This is a static site that will be updated regularly with content.  Most of what you will see here is all original content.  Since I don't get much feedback for my work, I haven't allowed comments to be posted.  If you would like to contact me about my work, please EMAIL me or contact me on Discord.
+My name is John Marine, and I would like to welcome you to my page!  This is a static site that will be updated regularly with content.  Most of what you will see here is all original content.  Since I don't get much feedback for my work, I haven't allowed comments to be posted.
 
-Now with this out of the way, how can I help you?
+If you would like to contact me about my work, please EMAIL me or contact me on Discord.
 
-Something happens if you click [this link](helloworld.htm)...
+<b>NOTE:</b> Github Page under construction!  If any material is marked as "Currently Unavailable," it is being worked on and not yet published to my Github Page.  You otherwise will be linked to a page noting it is still under construction.  I apologize for the incovenience.
+
+Now with this out of the way, how can I help you?  
 
 
 
@@ -13,19 +15,19 @@ Something happens if you click [this link](helloworld.htm)...
 These are the different features I will exclusively feature on this site.  Take a look around and enjoy my work!
 
 
-## [Original Characters](originals/chars/chars.md)
+## [Original Characters (currently unavailable)](helloworld.htm)
 Take a look at my character designs.  Learn more about them.  (NOTE: Not all content may be suitable for all audiences.  Some of the characters and the media involved are viewed at one's own risk.)
 
-## [Original Vehicles](originals/veh/index.md)
+## [Original Vehicles (currently unavailable)](helloworld.htm)
 As an former creator of voxel models, I have developed some vehicles among my work.  Learn more about them with this category.
 
-## [Original Locations](originals/loc/index.md)
+## [Original Locations (currently unavailable)](helloworld.htm)
 Creations of mine in this category relate to certain fantasy locations I've created.  These can be game levels, fantasy worlds, fictional sports facilities, and a lot more.
 
-## [My Cooking Adventues](originals/cook/index.md)
+## [My Cooking Adventues (currently unavailable)](helloworld.htm)
 Learn more about meals I've tried to create as an amateur cook.  You also can find out how I prepared certain meals.
 
-## [ABC's of Fashion, with John B. Marine](originals/fash/index.md)
+## [ABC's of Fashion, with John B. Marine (currently unavailable)](helloworld.htm)
 Here is a unique series for you fashion lovers.  I will share my thoughts on a number of fashion-related topics.  You are free to feel how you want about my opinions, but I share my own unique takes on fashion.  As the name implies, I will discuss a number of different fashion-related topics from numbers to A-Z.  I think you'll find this plenty interesting.
 
 
@@ -52,3 +54,7 @@ My fashion/beauty blog is StyleSpace.  Because the name was originally taken by 
 
 # My Other Works and Sites
 I am on various places on social media.  As long as you are not someone of a scam or spam nature, I would love to meet new people.  So let's connect!
+
+
+#Establishment
+Worked on long time ago, but never made public until May 7, 2024.
