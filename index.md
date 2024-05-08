@@ -61,6 +61,14 @@ My fashion/beauty blog is StyleSpace.  Because the name was originally taken by 
 # My Other Works and Sites
 I am on various places on social media.  As long as you are not someone of a scam or spam nature, I would love to meet new people.  So let's connect!
 
+<b>NOTE/RECOMMENDATION:</b> These links will take you away from this page.  If you do not want to leave this site upon clicking, access these links in this section by opening them in a new tab.
+
+• [Facebook](https://www.facebook.com/Johnbmarineofficial) (Fan Page)
+• [X/Twitter](https://twitter.com/johnbmarine)
+• [Discord](https://discord.gg/ebfnsJcKVM)
+-
+• [JohnMarineDesigns](https://johnmarinedesigns.weebly.com) (my portfolio site)
+
 
 # Establishment
 Worked on long time ago, but never made public until May 7, 2024.
