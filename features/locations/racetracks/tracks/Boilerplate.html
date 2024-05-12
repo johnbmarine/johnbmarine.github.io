@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=windows-1252">
+    <title>Race Tracks: </title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+  </head>
+  <body>
+    <div class="w3-container">
+      <h2>Welcome to: !</h2>
+      <p>Click on the individual tabs to see individual layouts of this track,
+        if offered.</p>
+      <div class="w3-bar w3-blue"> <button class="w3-bar-item w3-button tablink w3-amber"
+
+          onclick="openCity(event,'Layout1')">Layout 1</button> <button class="w3-bar-item w3-button tablink"
+
+          onclick="openCity(event,'Layout2')">Layout 2</button> <button class="w3-bar-item w3-button tablink"
+
+          onclick="openCity(event,'Layout3')">Layout 3</button> </div>
+      <div id="Layout1" class="w3-container w3-border layout">
+        <h2>Layout 1</h2>
+        <p>City, Country</p>
+        <img src="" class="w3-border w3-padding" alt="" style="512px">
+        <ul class="w3-ul">
+          <li>Circuit Type</li>
+          <li>x.xxx miles (x.xxx kilometers) long</li>
+          <li>x turns</li>
+          <li>Normal and Reverse</li>
+          <li>(special considerations)</li>
+        </ul>
+        <p>Layout Description</p>
+      </div>
+      <div id="Layout2" class="w3-container w3-border layout" style="display:none">
+        <h2>Layout 2</h2>
+        <p>City, Country</p>
+        <img src="" class="w3-border w3-padding" alt="" style="512px">
+        <ul class="w3-ul">
+          <li>Circuit Type</li>
+          <li>x.xxx miles (x.xxx kilometers) long</li>
+          <li>x turns</li>
+          <li>Normal and Reverse</li>
+          <li>(special considerations)</li>
+        </ul>
+        <p>Layout Description</p>
+      </div>
+      <div id="Layout3" class="w3-container w3-border layout" style="display:none">
+        <h2>Layout 3</h2>
+        <p>City, Country</p>
+        <img src="" class="w3-border w3-padding" alt="" style="512px">
+        <ul class="w3-ul">
+          <li>Circuit Type</li>
+          <li>x.xxx miles (x.xxx kilometers) long</li>
+          <li>x turns</li>
+          <li>Normal and Reverse</li>
+          <li>(special considerations)</li>
+        </ul>
+        <p>Layout Description</p>
+      </div>
+    </div>
+    <script>
+function openCity(evt, cityName) {
+  var i, x, tablinks;
+  x = document.getElementsByClassName("layout");
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = "none";
+  }
+  tablinks = document.getElementsByClassName("tablink");
+  for (i = 0; i < x.length; i++) {
+    tablinks[i].className = tablinks[i].className.replace(" w3-amber", "");
+  }
+  document.getElementById(cityName).style.display = "block";
+  evt.currentTarget.className += " w3-amber";
+}
+
+</script> <br> <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <h1> Track Introduction </h1>
+    <p>Description</p>
+    <br>
+    <h2>Layout Discussion </h2>
+    <p> Description </p>
+    <br>
+    <h2>Layout Discussion </h2>
+    <p> Description </p>
+    <br>
+    <h2>Layout Discussion </h2>
+    <p> Description </p>
+    <br>
+  </body>
+</html>
