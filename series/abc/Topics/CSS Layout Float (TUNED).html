@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>CSS Layout Float - Test Page</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Style the header */
+header {
+  background-color: #666;
+  padding: 30px;
+  text-align: center;
+  font-size: 35px;
+  color: white;
+}
+
+/* Create two columns/boxes that floats next to each other */
+nav {
+  float: left;
+  width: 30%;
+  height: auto;
+  background: #ccc;
+  padding: 10px;
+}
+
+/* Style the list inside the menu */
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+article {
+  float: left;
+  padding: 20px;
+  width: 70%;
+  background-color: #f1f1f1;
+}
+
+/* Clear floats after the columns */
+section:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Style the footer */
+footer {
+  background-color: #777;
+  padding: 10px;
+  text-align: center;
+  color: white;
+}
+
+/* Responsive layout - makes the two columns/boxes stack on top of each other instead of next to each other, on small screens */
+@media (max-width: 600px) {
+  nav, article {
+    width: 100%;
+    height: auto;
+  }
+}
+</style> </head>
+  
+/*
+For Items: <a href="../topics/A/"></a><br>
+For Topics (replace "§"): <a href="../topics/§/"></a><br>
+  
+*/
+  
+  <body><br>
+    <header>
+      <h2>ABC's of Fashion: #</h2>
+      <p>by John B. Marine</p>
+    </header>
+    <section>
+      <nav> Select a letter/number to see different fashion topics in each category.
+        <ul>
+          <li>
+            <h2> <a href="#">123</a> | <a href="#">A</a> | <a href="#">B</a> | <a href="#">C</a> | <a href="#">D</a> | <a href="#">E</a> | <a href="#">F</a> | <a href="#">G</a> | <a href="#">H</a>
+              | <a href="#">I</a> | <a href="#">J</a> | <a href="#">K</a> | <a href="#">L</a> | <a href="#">M</a> | <a href="#">N</a> | <a href="#">O</a> | <a href="#">P</a> | <a href="#">Q</a>
+              | <a href="#">R</a> | <a href="#">S</a> | <a href="#">T</a> | <a href="#">U</a> | <a href="#">V</a> | <a href="#">W</a> | <a href="#">X</a> | <a href="#">Y</a> | <a href="#">Z</a>
+            </h2>
+          </li>
+        </ul>
+      </nav>
+      <article>
+        <p style="text-align: center;">{MUFFULETTA}</p>
+        <h1 style="text-align: center;">Topic</h1>
+        <p style="text-align: center;">{POZNAN}</p>
+        <h1>DESCRIPTION:</h1>
+        <p>x</p>
+        <p></p>
+        <h1>THOUGHTS:</h1>
+        <p>y</p>
+        <h1>RESOURCES:</h1>
+        <p></p>
+        <div data-sc-widget-id="P-5a3d27792391f398b032374d"></div>
+        <script async="" src="//widgets.shopstyle.com/shopstyle-widget-snippet.js"></script>
+        <p></p>
+        <p> <br>
+        </p>
+        <p></p>
+        <p>Agree or disagree with my views?&nbsp; Feel free to comment!&nbsp; Thank you for your reading!&nbsp; Take care and be well.</p>
+        <p></p>
+        <p></p>
+      </article>
+    </section>
+    <footer>
+      <p>Thank you for reading and visiting!&nbsp; Take care and be well.</p>
+      <p>2020, John B. Marine.&nbsp; All rights reserved.</p>
+    </footer>
+    
+  </body>
+</html>

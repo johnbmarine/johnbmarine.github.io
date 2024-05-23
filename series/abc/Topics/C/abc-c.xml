@@ -1,0 +1,1071 @@
+<!--
+<abcsoffashion_~>
+	<topic="">
+		<name>topic</name>
+		<image>
+			<IMG SRC="" ALT="">
+			(Source: )
+		</image>
+		<discussion>
+			intro
+		</discussion>
+		<thoughts>
+			opinion
+		</thoughts>
+		<resources>
+			...resources...
+		</resources>
+	</topic>
+</abcsoffashion_~>	
+
+(should be) 57 items
+
+Caftans
+Camel Toe
+Camisoles
+Camouflage
+"Canadian Tuxedo"
+Candy Stripes
+Capes
+Capris
+Cap Sleeves
+~10~Cap Toe
+Cardigans
+Cargo Bottoms
+Carpenter
+Cat Ears
+Cat Eye Glasses
+Cat Tights
+Chain Necklace
+Chambray
+Chandelier Earrings
+~20~Chelsea Boots
+Chemise
+Cheongsams
+Chokers
+Cigarette Bottoms
+Cinchers
+Clear Footwear
+Clogs
+Clutch Handbags
+Coat Dresses
+~30~Coats
+Cobalt Blue
+Cocktail Dresses
+Color Block
+Colored Contact Lenses
+Colorful Lipstick
+Combat Boots
+Convertible Garments
+Corduroy
+Cork Footwear
+~40~Cosplay
+Coverup Dresses
+Cowboy Boots
+Cowboy Hats
+Cowl Neck
+Creepers
+Cropped Flare
+Cropped Jackets and Vests
+Cropped Jeans, Pants, and Jumpsuits
+Cropped Sweaters
+~50~Cropped Tops
+Cropped Tops With Skirts
+Crossbody Handbags
+Crosses
+Cuffed Denim
+Culotte Pants
+Curly Hair
+Cutout Footwear
+-->
+<?xml version="1.0" encoding="UTF-8"?>
+<abcsoffashion_c>
+	<topic="C1">
+		<name>Caftans</name>
+		<image>
+			<IMG SRC="" ALT="">
+			(Source: )
+		</image>
+		<discussion>
+			intro
+		</discussion>
+		<thoughts>
+			opinion
+		</thoughts>
+		<resources>
+			...resources...
+		</resources>
+	</topic>
+
+	<topic="C2">
+		<name>Camel Toe</name>
+		<image>
+			<IMG SRC="" ALT="">
+			(Source: )
+		</image>
+		<discussion>
+			intro
+		</discussion>
+		<thoughts>
+			opinion
+		</thoughts>
+		<resources>
+			...resources...
+		</resources>
+	</topic>
+
+	<topic="C3">
+		<name>Camisoles</name>
+		<image>
+			<IMG SRC="" ALT="">
+			(Source: )
+		</image>
+		<discussion>
+			intro
+		</discussion>
+		<thoughts>
+			opinion
+		</thoughts>
+		<resources>
+			...resources...
+		</resources>
+	</topic>
+
+	<topic="C4">
+		<name>Camouflage</name>
+		<image>
+			<IMG SRC="" ALT="">
+			(Source: )
+		</image>
+		<discussion>
+			intro
+		</discussion>
+		<thoughts>
+			opinion
+		</thoughts>
+		<resources>
+			...resources...
+		</resources>
+	</topic>
+
+	<topic="C5">
+		<name>"Canadian Tuxedo"</name>
+		<image>
+			<IMG SRC="" ALT="">
+			(Source: )
+		</image>
+		<discussion>
+			intro
+		</discussion>
+		<thoughts>
+			opinion
+		</thoughts>
+		<resources>
+			...resources...
+		</resources>
+	</topic>
+
+	<topic="C6">
+		<name>Candy Stripes</name>
+		<image>
+			<IMG SRC="" ALT="">
+			(Source: )
+		</image>
+		<discussion>
+			intro
+		</discussion>
+		<thoughts>
+			opinion
+		</thoughts>
+		<resources>
+			...resources...
+		</resources>
+	</topic>
+
+	<topic="C7">
+		<name>Capri Jeans, Pants, and Jumpsuits</name>
+		<image>
+			<IMG SRC="" ALT="">
+			(Source: )
+		</image>
+		<discussion>
+			intro
+		</discussion>
+		<thoughts>
+			opinion
+		</thoughts>
+		<resources>
+			...resources...
+		</resources>
+	</topic>
+
+	<topic=""C8>
+		<name>Cap Sleeves</name>
+		<image>
+			<IMG SRC="" ALT="">
+			(Source: )
+		</image>
+		<discussion>
+			intro
+		</discussion>
+		<thoughts>
+			opinion
+		</thoughts>
+		<resources>
+			...resources...
+		</resources>
+	</topic>
+
+	<topic="C9">
+		<name>Cap Toe Footwear</name>
+		<image>
+			<IMG SRC="" ALT="">
+			(Source: )
+		</image>
+		<discussion>
+			intro
+		</discussion>
+		<thoughts>
+			opinion
+		</thoughts>
+		<resources>
+			...resources...
+		</resources>
+	</topic>
+
+	<topic="C10">
+		<name>Cardigans</name>
+		<image>
+			<IMG SRC="" ALT="">
+			(Source: )
+		</image>
+		<discussion>
+			intro
+		</discussion>
+		<thoughts>
+			opinion
+		</thoughts>
+		<resources>
+			...resources...
+		</resources>
+	</topic>	
+	
+	<topic="C11">
+		<name>Cargo Bottoms</name>
+		<image>
+			<IMG SRC="" ALT="">
+			(Source: )
+		</image>
+		<discussion>
+			intro
+		</discussion>
+		<thoughts>
+			opinion
+		</thoughts>
+		<resources>
+			...resources...
+		</resources>
+	</topic>
+
+	<topic="C12">
+		<name>Carpenter Bottoms</name>
+		<image>
+			<IMG SRC="" ALT="">
+			(Source: )
+		</image>
+		<discussion>
+			intro
+		</discussion>
+		<thoughts>
+			opinion
+		</thoughts>
+		<resources>
+			...resources...
+		</resources>
+	</topic>
+
+	<topic=""C13>
+		<name>Cat Ears</name>
+		<image>
+			<IMG SRC="" ALT="">
+			(Source: )
+		</image>
+		<discussion>
+			intro
+		</discussion>
+		<thoughts>
+			opinion
+		</thoughts>
+		<resources>
+			...resources...
+		</resources>
+	</topic>
+
+	<topic="C14">
+		<name>Cat Eye Glasses</name>
+		<image>
+			<IMG SRC="" ALT="">
+			(Source: )
+		</image>
+		<discussion>
+			intro
+		</discussion>
+		<thoughts>
+			opinion
+		</thoughts>
+		<resources>
+			...resources...
+		</resources>
+	</topic>
+
+	<topic="C15">
+		<name>Cat Tights</name>
+		<image>
+			<IMG SRC="" ALT="">
+			(Source: )
+		</image>
+		<discussion>
+			intro
+		</discussion>
+		<thoughts>
+			opinion
+		</thoughts>
+		<resources>
+			...resources...
+		</resources>
+	</topic>
+
+	<topic="C16">
+		<name>Chain Necklaces</name>
+		<image>
+			<IMG SRC="" ALT="">
+			(Source: )
+		</image>
+		<discussion>
+			intro
+		</discussion>
+		<thoughts>
+			opinion
+		</thoughts>
+		<resources>
+			...resources...
+		</resources>
+	</topic>
+
+	<topic="">
+		<name>Chambray</name>
+		<image>
+			<IMG SRC="" ALT="">
+			(Source: )
+		</image>
+		<discussion>
+			intro
+		</discussion>
+		<thoughts>
+			opinion
+		</thoughts>
+		<resources>
+			...resources...
+		</resources>
+	</topic>
+
+	<topic="">
+		<name>Chandelier Earrings</name>
+		<image>
+			<IMG SRC="" ALT="">
+			(Source: )
+		</image>
+		<discussion>
+			intro
+		</discussion>
+		<thoughts>
+			opinion
+		</thoughts>
+		<resources>
+			...resources...
+		</resources>
+	</topic>
+
+	<topic="">
+		<name>Chelsea Boots</name>
+		<image>
+			<IMG SRC="" ALT="">
+			(Source: )
+		</image>
+		<discussion>
+			intro
+		</discussion>
+		<thoughts>
+			opinion
+		</thoughts>
+		<resources>
+			...resources...
+		</resources>
+	</topic>
+
+	<topic="C20">
+		<name>Chemises</name>
+		<image>
+			<IMG SRC="" ALT="">
+			(Source: )
+		</image>
+		<discussion>
+			intro
+		</discussion>
+		<thoughts>
+			opinion
+		</thoughts>
+		<resources>
+			...resources...
+		</resources>
+	</topic>		
+	
+	<topic="C21">
+		<name>Cheongsams</name>
+		<image>
+			<IMG SRC="" ALT="">
+			(Source: )
+		</image>
+		<discussion>
+			intro
+		</discussion>
+		<thoughts>
+			opinion
+		</thoughts>
+		<resources>
+			...resources...
+		</resources>
+	</topic>
+
+	<topic="C22">
+		<name>Chokers</name>
+		<image>
+			<IMG SRC="" ALT="">
+			(Source: )
+		</image>
+		<discussion>
+			intro
+		</discussion>
+		<thoughts>
+			opinion
+		</thoughts>
+		<resources>
+			...resources...
+		</resources>
+	</topic>
+
+	<topic="C23">
+		<name>Cigarette Bottoms</name>
+		<image>
+			<IMG SRC="" ALT="">
+			(Source: )
+		</image>
+		<discussion>
+			intro
+		</discussion>
+		<thoughts>
+			opinion
+		</thoughts>
+		<resources>
+			...resources...
+		</resources>
+	</topic>
+
+	<topic="C24">
+		<name>Cinchers</name>
+		<image>
+			<IMG SRC="" ALT="">
+			(Source: )
+		</image>
+		<discussion>
+			intro
+		</discussion>
+		<thoughts>
+			opinion
+		</thoughts>
+		<resources>
+			...resources...
+		</resources>
+	</topic>
+
+	<topic="C25">
+		<name>Clear Footwear</name>
+		<image>
+			<IMG SRC="" ALT="">
+			(Source: )
+		</image>
+		<discussion>
+			intro
+		</discussion>
+		<thoughts>
+			opinion
+		</thoughts>
+		<resources>
+			...resources...
+		</resources>
+	</topic>
+
+	<topic="C26">
+		<name>Clogs</name>
+		<image>
+			<IMG SRC="" ALT="">
+			(Source: )
+		</image>
+		<discussion>
+			intro
+		</discussion>
+		<thoughts>
+			opinion
+		</thoughts>
+		<resources>
+			...resources...
+		</resources>
+	</topic>
+
+	<topic="C27">
+		<name>Clutch Handbags</name>
+		<image>
+			<IMG SRC="" ALT="">
+			(Source: )
+		</image>
+		<discussion>
+			intro
+		</discussion>
+		<thoughts>
+			opinion
+		</thoughts>
+		<resources>
+			...resources...
+		</resources>
+	</topic>
+
+	<topic="C28">
+		<name>Coat Dresses</name>
+		<image>
+			<IMG SRC="" ALT="">
+			(Source: )
+		</image>
+		<discussion>
+			intro
+		</discussion>
+		<thoughts>
+			opinion
+		</thoughts>
+		<resources>
+			...resources...
+		</resources>
+	</topic>
+
+	<topic="C29">
+		<name>Coats</name>
+		<image>
+			<IMG SRC="" ALT="">
+			(Source: )
+		</image>
+		<discussion>
+			intro
+		</discussion>
+		<thoughts>
+			opinion
+		</thoughts>
+		<resources>
+			...resources...
+		</resources>
+	</topic>
+
+	<topic="C30">
+		<name>Cobalt Blue</name>
+		<image>
+			<IMG SRC="" ALT="">
+			(Source: )
+		</image>
+		<discussion>
+			intro
+		</discussion>
+		<thoughts>
+			opinion
+		</thoughts>
+		<resources>
+			...resources...
+		</resources>
+	</topic>		
+	
+	<topic="C31">
+		<name>Cocktail Dresses</name>
+		<image>
+			<IMG SRC="" ALT="">
+			(Source: )
+		</image>
+		<discussion>
+			intro
+		</discussion>
+		<thoughts>
+			opinion
+		</thoughts>
+		<resources>
+			...resources...
+		</resources>
+	</topic>
+
+	<topic="C32">
+		<name>Color Blocking</name>
+		<image>
+			<IMG SRC="" ALT="">
+			(Source: )
+		</image>
+		<discussion>
+			intro
+		</discussion>
+		<thoughts>
+			opinion
+		</thoughts>
+		<resources>
+			...resources...
+		</resources>
+	</topic>
+
+	<topic="C33">
+		<name>Colored Contact Lenses</name>
+		<image>
+			<IMG SRC="" ALT="">
+			(Source: )
+		</image>
+		<discussion>
+			intro
+		</discussion>
+		<thoughts>
+			opinion
+		</thoughts>
+		<resources>
+			...resources...
+		</resources>
+	</topic>
+
+	<topic="C34">
+		<name>Colorful Lipstick</name>
+		<image>
+			<IMG SRC="" ALT="">
+			(Source: )
+		</image>
+		<discussion>
+			intro
+		</discussion>
+		<thoughts>
+			opinion
+		</thoughts>
+		<resources>
+			...resources...
+		</resources>
+	</topic>
+
+	<topic="C35">
+		<name>Combat Boots</name>
+		<image>
+			<IMG SRC="" ALT="">
+			(Source: )
+		</image>
+		<discussion>
+			intro
+		</discussion>
+		<thoughts>
+			opinion
+		</thoughts>
+		<resources>
+			...resources...
+		</resources>
+	</topic>
+
+	<topic="C36">
+		<name>Cowboy Boots</name>
+		<image>
+			<IMG SRC="" ALT="">
+			(Source: )
+		</image>
+		<discussion>
+			intro
+		</discussion>
+		<thoughts>
+			opinion
+		</thoughts>
+		<resources>
+			...resources...
+		</resources>
+	</topic>
+
+	<topic="C37">
+		<name>Cowboy Hats</name>
+		<image>
+			<IMG SRC="" ALT="">
+			(Source: )
+		</image>
+		<discussion>
+			intro
+		</discussion>
+		<thoughts>
+			opinion
+		</thoughts>
+		<resources>
+			...resources...
+		</resources>
+	</topic>
+
+	<topic="C38">
+		<name>Cowl Neck</name>
+		<image>
+			<IMG SRC="" ALT="">
+			(Source: )
+		</image>
+		<discussion>
+			intro
+		</discussion>
+		<thoughts>
+			opinion
+		</thoughts>
+		<resources>
+			...resources...
+		</resources>
+	</topic>
+
+	<topic="C39">
+		<name>Creepers</name>
+		<image>
+			<IMG SRC="" ALT="">
+			(Source: )
+		</image>
+		<discussion>
+			intro
+		</discussion>
+		<thoughts>
+			opinion
+		</thoughts>
+		<resources>
+			...resources...
+		</resources>
+	</topic>
+
+	<topic="C40">
+		<name>Cosplay</name>
+		<image>
+			<IMG SRC="" ALT="">
+			(Source: )
+		</image>
+		<discussion>
+			intro
+		</discussion>
+		<thoughts>
+			opinion
+		</thoughts>
+		<resources>
+			...resources...
+		</resources>	
+<!--	
+		<name>Cropped Flares (or Kick Flares)</name>
+		<image>
+			<IMG SRC="" ALT="">
+			(Source: )
+		</image>
+		<discussion>
+			intro
+		</discussion>
+		<thoughts>
+			opinion
+		</thoughts>
+		<resources>
+			...resources...
+		</resources>
+-->		
+	</topic>	
+
+	<topic="C41">
+		<name>Cropped Jackets and Vests</name>
+		<image>
+			<IMG SRC="" ALT="">
+			(Source: )
+		</image>
+		<discussion>
+			intro
+		</discussion>
+		<thoughts>
+			opinion
+		</thoughts>
+		<resources>
+			...resources...
+		</resources>
+	</topic>
+
+	<topic="C42">
+		<name>Cropped Jeans and Pants</name>
+		<image>
+			<IMG SRC="" ALT="">
+			(Source: )
+		</image>
+		<discussion>
+			intro
+		</discussion>
+		<thoughts>
+			opinion
+		</thoughts>
+		<resources>
+			...resources...
+		</resources>
+	</topic>
+
+	<topic="C43">
+		<name>Cropped Flare Jeans, Pants, and Jumpsuits/name>
+		<image>
+			<IMG SRC="" ALT="">
+			(Source: )
+		</image>
+		<discussion>
+			intro
+		</discussion>
+		<thoughts>
+			opinion
+		</thoughts>
+		<resources>
+			...resources...
+		</resources>
+	</topic>
+
+	<topic="C44">
+		<name>Cropped Jackets and Vests</name>
+		<image>
+			<IMG SRC="" ALT="">
+			(Source: )
+		</image>
+		<discussion>
+			intro
+		</discussion>
+		<thoughts>
+			opinion
+		</thoughts>
+		<resources>
+			...resources...
+		</resources>
+	</topic>
+
+	<topic="C45">
+		<name>Cropped Jeans, Pants, and Jumpsuits</name>
+		<image>
+			<IMG SRC="" ALT="">
+			(Source: )
+		</image>
+		<discussion>
+			intro
+		</discussion>
+		<thoughts>
+			opinion
+		</thoughts>
+		<resources>
+			...resources...
+		</resources>
+	</topic>
+
+	<topic="C46">
+		<name>Cropped Sweaters</name>
+		<image>
+			<IMG SRC="" ALT="">
+			(Source: )
+		</image>
+		<discussion>
+			intro
+		</discussion>
+		<thoughts>
+			opinion
+		</thoughts>
+		<resources>
+			...resources...
+		</resources>
+	</topic>
+
+	<topic="C47">
+
+	</topic>
+
+	<topic="C48">
+		<name>Cropped Tops With Skirts</name>
+		<image>
+			<IMG SRC="" ALT="">
+			(Source: )
+		</image>
+		<discussion>
+			intro
+		</discussion>
+		<thoughts>
+			opinion
+		</thoughts>
+		<resources>
+			...resources...
+		</resources>
+	</topic>
+
+	<topic="C49">
+		<name>Crosses</name>
+		<image>
+			<IMG SRC="" ALT="">
+			(Source: )
+		</image>
+		<discussion>
+			intro
+		</discussion>
+		<thoughts>
+			opinion
+		</thoughts>
+		<resources>
+			...resources...
+		</resources>
+<!--		
+		<name>Crossbody Handbags</name>
+		<image>
+			<IMG SRC="" ALT="">
+			(Source: )
+		</image>
+		<discussion>
+			intro
+		</discussion>
+		<thoughts>
+			opinion
+		</thoughts>
+		<resources>
+			...resources...
+		</resources>
+	</topic>
+-->	
+
+	<topic="C50">
+		<name>Cropped Tops</name>
+		<image>
+			<IMG SRC="" ALT="">
+			(Source: )
+		</image>
+		<discussion>
+			intro
+		</discussion>
+		<thoughts>
+			opinion
+		</thoughts>
+		<resources>
+			...resources...
+		</resources>	
+
+	</topic>	
+	
+	<topic="C51">
+		<name>Cuffed Denim</name>
+		<image>
+			<IMG SRC="" ALT="">
+			(Source: )
+		</image>
+		<discussion>
+			intro
+		</discussion>
+		<thoughts>
+			opinion
+		</thoughts>
+		<resources>
+			...resources...
+		</resources>
+	</topic>
+
+	<topic="C52">
+		<name>Culottte Jeans, Pants, and Jumpsuits</name>
+		<image>
+			<IMG SRC="" ALT="">
+			(Source: )
+		</image>
+		<discussion>
+			intro
+		</discussion>
+		<thoughts>
+			opinion
+		</thoughts>
+		<resources>
+			...resources...
+		</resources>
+	</topic>
+
+	<topic="C53">
+		<name>Curly Hair</name>
+		<image>
+			<IMG SRC="" ALT="">
+			(Source: )
+		</image>
+		<discussion>
+			intro
+		</discussion>
+		<thoughts>
+			opinion
+		</thoughts>
+		<resources>
+			...resources...
+		</resources>
+	</topic>
+
+	<topic="C54">
+		<name>Cutout Shoes</name>
+		<image>
+			<IMG SRC="" ALT="">
+			(Source: )
+		</image>
+		<discussion>
+			intro
+		</discussion>
+		<thoughts>
+			opinion
+		</thoughts>
+		<resources>
+			...resources...
+		</resources>
+	</topic>
+
+	<topic="">
+		<name>topic</name>
+		<image>
+			<IMG SRC="" ALT="">
+			(Source: )
+		</image>
+		<discussion>
+			intro
+		</discussion>
+		<thoughts>
+			opinion
+		</thoughts>
+		<resources>
+			...resources...
+		</resources>
+	</topic>
+
+	<topic="">
+		<name>topic</name>
+		<image>
+			<IMG SRC="" ALT="">
+			(Source: )
+		</image>
+		<discussion>
+			intro
+		</discussion>
+		<thoughts>
+			opinion
+		</thoughts>
+		<resources>
+			...resources...
+		</resources>
+	</topic>
+
+	<topic="C57">
+		<name>topic</name>
+		<image>
+			<IMG SRC="" ALT="">
+			(Source: )
+		</image>
+		<discussion>
+			intro
+		</discussion>
+		<thoughts>
+			opinion
+		</thoughts>
+		<resources>
+			...resources...
+		</resources>
+	</topic>
+</abcsoffashion_c>	

@@ -1,0 +1,109 @@
+<!--
+<abcsoffashion_~>
+	<topic="">
+		<name>topic</name>
+		<image>
+			<IMG SRC="" ALT="">
+			(Source: )
+		</image>
+		<discussion>
+			intro
+		</discussion>
+		<thoughts>
+			opinion
+		</thoughts>
+		<resources>
+			...resources...
+		</resources>
+	</topic>
+</abcsoffashion_~>	
+
+x
+-->
+<?xml version="1.0" encoding="UTF-8"?>
+<abcsoffashion_~>
+	<topic="N1">
+		<name>Neck Ties</name>
+		<image>
+			<IMG SRC="" ALT="">
+			(Source: )
+		</image>
+		<discussion>
+			A simple way to add style to a men's formal outfit is to wear a tie.
+		</discussion>
+		<thoughts>
+			opinion
+		</thoughts>
+		<resources>
+			...resources...
+		</resources>
+	</topic>
+	
+	<topic="N2">
+		<name>Necklaces</name>
+		<image>
+			<IMG SRC="" ALT="">
+			(Source: )
+		</image>
+		<discussion>
+			Any necklace will add some appeal to your neck.  Necklaces can range from very short ones (but not choker short) to very long ones.  They may be a single necklace or some kind of layered necklace.  Either way, necklaces can instantly provide a style statement to those who wear them.
+		</discussion>
+		<thoughts>
+			opinion
+		</thoughts>
+		<resources>
+			...resources...
+		</resources>
+	</topic>
+
+	<topic="N3">
+		<name>Neutrals</name>
+		<image>
+			<IMG SRC="" ALT="">
+			(Source: )
+		</image>
+		<discussion>
+			Neutrals in fashion pertain to colors opposite of any usual colors for outfits.  Most neutrals are meant to primarily be used to offset certain color combinations.
+		</discussion>
+		<thoughts>
+			opinion
+		</thoughts>
+		<resources>
+			...resources...
+		</resources>
+	</topic>
+
+	<topic="N4">
+		<name>Nude (Color)</name>
+		<image>
+			<IMG SRC="" ALT="">
+			(Source: )
+		</image>
+		<discussion>
+			intro
+		</discussion>
+		<thoughts>
+			Nude as a color can be great... as long as you are not dark-skinned or tanned.  The premise of nude to me is for lighter skin colors.  There are two reasons why I don't use the term "nude" and instead use "skin-tone."  For one, I don't want to contribute to already abused nudity online.  There is already enough nudity spreaded around online.  Why add to it?  That leads to my second point- nude for darker skin tones doesn't equate to proper skin-tone wearing nude colors.
+		</thoughts>
+		<resources>
+			...resources...
+		</resources>
+	</topic>	
+	
+	<topic="N5">
+		<name>Nudity</name>
+		<image>
+			<IMG SRC="" ALT="">
+			(Source: )
+		</image>
+		<discussion>
+			For ages, showcasing the human body is a meticulous form of art.  Even dating back to Roman and Greek sculptures has nudity been a form of visual art.  Nudity in modeling expresses the human body in its purest form.  Please note we are discussing artistic nudity; not the kind of material you would find on any 
+		</discussion>
+		<thoughts>
+			opinion
+		</thoughts>
+		<resources>
+			...resources...
+		</resources>
+	</topic>	
+</abcsoffashion_~>	
